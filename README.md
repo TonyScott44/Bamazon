@@ -1,5 +1,5 @@
 # Bamazon
-Georgia Tech Full Stack Web Development Professional Certification Program  | Node.JS &amp; MySQL Assignment: Bamazon 
+Node.JS & MySQL HW Assignment: Bamazon | Georgia Tech Full Stack Web Development Professional Certification Course 
 
 # Node.js & MySQL
 
